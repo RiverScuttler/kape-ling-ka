@@ -1,7 +1,7 @@
 const PRODUCTS = [
     { id: 1, name: 'Barako Brew 250g', price: 199.00, img: 'images/barako-brew.jpg', description: 'Rich barako roast with deep aroma.' }, 
     { id: 2, name: 'Kape-Ling Ka Ceramic Mug', price: 299.00, img: 'images/ceramic-mug.jpg', description: 'Thick ceramic mug—perfect for barako.' },
-    { id: 3, name: 'Snack Combo Box', price: 129.00, img: 'images/snack-combo-box.jpg', description: 'Local snacks pack, limited time.' },
+    { id: 3, name: 'Snack Combo Box', price: 179.00, img: 'images/snack-combo-box.jpg', description: 'Local snacks pack, limited time.' },
     { id: 4, name: 'Gift Card ₱500', price: 500.00, img: 'images/gift-card.jpg', description: 'Give the gift of taste.' },
     { id: 5, name: 'Coffee Grinder', price: 899.00, img: 'images/coffee-grinder.jpg', description: 'Manual burr grinder for fresh brew.' },
     { id: 6, name: 'Retro Pixel Poster', price: 129.00, img: 'images/retro-pixel-poster.jpg', description: 'Pixelated Kape-Ling Ka Coffee Shop art print.' }
